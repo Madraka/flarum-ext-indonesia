@@ -11,7 +11,7 @@ Indonesian language pack for Flarum, all already translated into Indonesian. Not
 On your Flarum root, run:
 
 ```
-composer require fransallen/flarum-ext-indonesian dev-master
+composer require fransallen/flarum-ext-indonesian
 ```
 
 ### Usage

@@ -9,7 +9,7 @@ Paket Bahasa Indonesia untuk Flarum, semua sudah diterjemahkan kedalam Bahasa In
 ### Instalasi
 
 ```
-composer require fransallen/flarum-ext-indonesian dev-master
+composer require fransallen/flarum-ext-indonesian
 ```
 
 ### Penggunaan
