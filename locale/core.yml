@@ -439,7 +439,7 @@ core:
       #now_link: Now
       now_link: Saat ini
       #original_post_link: Original Post
-      original_post_link: Posting asli
+      original_post_link: Posting Pertama
       #unread_text: "{count} unread"
       unread_text: "{count} belum dibaca"
       #viewing_text: "{index} of {count} post|{index} of {count} posts"
