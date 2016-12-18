@@ -38,7 +38,7 @@ flarum-tags:
     # These translations are used in the Permissions page of the admin interface.
     permissions:
       #allow_edit_tags_label: Allow tag editing
-      allow_edit_tags_label: Ijinkan Edit Tag
+      allow_edit_tags_label: Pengubahan Tag
       #restrict_by_tag_heading: Restrict by Tag
       restrict_by_tag_heading: Batasi Dengan Tag
       #tag_discussions_label: Tag discussions
@@ -80,7 +80,7 @@ flarum-tags:
       #choose_secondary_placeholder: "Choose 1 more tag|Choose {count} more tags"
       choose_secondary_placeholder: "Pilih 1 tag lagi|Pilih {count} tag lagi"
       #edit_title: "Edit Tags for {title}"
-      edit_title: "Edit Tag untuk {title}"
+      edit_title: "Ubah Tag untuk {title}"
       submit_button: => core.ref.okay
       #title: Choose Tags for Your Discussion
       title: Pilih Tag untuk Diskusi Anda
@@ -93,7 +93,7 @@ flarum-tags:
     # These translations are used by the discussion control buttons.
     discussion_controls:
       #edit_tags_button: Edit Tags
-      edit_tags_button: Edit Tag
+      edit_tags_button: Ubah Tag
 
     # These translations are used on the index page, peripheral to the discussion list.
     index:
