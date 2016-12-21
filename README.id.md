@@ -14,11 +14,11 @@ composer require fransallen/flarum-ext-indonesian
 
 ### Penggunaan
 
-**Flarum > Admin > Extensions**
+> Flarum > Admin > Extensions
 
 Aktifkan Ekstensi **Indonesian**
 
-![Indonesian](https://storage.googleapis.com/fransallencom.appspot.com/images/flarum-ext-indonesian.png)
+![Indonesian](https://www.fransallen.com/static/images/flarum-ext-indonesian.png)
 
 ### Berkontribusi
 
