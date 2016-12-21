@@ -178,7 +178,7 @@ core:
       #permissions_button: Permissions
       permissions_button: Ijin
       #permissions_text: Configure who can see and do what.
-      permissions_text: Konfigurasi hak akses pengguna mengenai apa yang bisa dilihat dan dilakukan.
+      permissions_text: Konfigurasi hak akses pengguna mengenai apa yang dapat dilihat dan dilakukan.
 
     # These translations are used in the Permissions page of the admin interface.
     permissions:
