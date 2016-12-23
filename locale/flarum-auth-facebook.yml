@@ -11,7 +11,6 @@ flarum-auth-facebook:
     facebook_settings:
       app_id_label: App ID
       app_secret_label: App Secret
-      #title: Facebook Settings
       title: Pengaturan Facebook
 
   # Translations in this namespace are used by the forum user interface.
@@ -19,5 +18,4 @@ flarum-auth-facebook:
 
     # These translations are used in the Log In modal dialog.
     log_in:
-      #with_facebook_button: Log In with Facebook
       with_facebook_button: Masuk dengan Facebook
