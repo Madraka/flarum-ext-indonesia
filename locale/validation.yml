@@ -56,7 +56,7 @@ validation:
   required_without_all: "Isian :attribute wajib diisi bila tidak terdapat adanya :values."
   same: "Isian :attribute dan :other harus sama."
   size:
-    numeric: "Isian :attribute harus berukuran :size."
+    numeric: "Isian :attribute setidaknya harus sebanyak :size."
     file: "Isian :attribute harus berukuran :size kilobyte."
     string: "Isian :attribute harus berukuran :size karakter."
     array: "Isian :attribute harus mengandung :size barang."
@@ -74,8 +74,8 @@ validation:
     content: konten
     name_singular: nama tunggal
     name_plural: nama plural
-    tag_count_primary: nomor tag primer
-    tag_count_secondary: nomor tag sekunder
+    tag_count_primary: tag primer
+    tag_count_secondary: tag sekunder
 
   custom:
     username:
