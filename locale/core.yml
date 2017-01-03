@@ -397,7 +397,7 @@ core:
 
     # These translations are displayed as error messages.
     error:
-      generic_message: "Oops! Sepertinya ada masalah. Muat ulang halaman dan coba lagi."
+      generic_message: "Ups! Sepertinya ada masalah. Muat ulang halaman dan coba lagi."
       not_found_message: Sumber yang diminta tidak ditemukan.
       permission_denied_message: Anda tidak memiliki ijin untuk melakukan itu.
       rate_limit_exceeded_message: Anda bergerak terlalu cepat. Silahkan coba lagi dalam beberapa detik.
