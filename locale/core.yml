@@ -397,7 +397,7 @@ core:
 
     # These translations are displayed as error messages.
     error:
-      generic_message: "Ups! Sepertinya ada masalah. Muat ulang halaman dan coba lagi."
+      generic_message: "Oops! Sepertinya ada masalah. Muat ulang halaman dan coba lagi."
       not_found_message: Sumber yang diminta tidak ditemukan.
       permission_denied_message: Anda tidak memiliki ijin untuk melakukan itu.
       rate_limit_exceeded_message: Anda bergerak terlalu cepat. Silahkan coba lagi dalam beberapa detik.
@@ -477,7 +477,6 @@ core:
       body: |
         Halo {username}!
 
-        Someone (hopefully you!) has submitted a forgotten password request for your account on {forum}.
         Seseorang telah meminta pembaruan kata sandi untuk akun anda di {forum}. Kami berharap itu Anda.
 
         Jika ini benar Anda, klik link dibawah ini untuk memperbarui kata sandi:
