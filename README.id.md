@@ -18,7 +18,7 @@ composer require fransallen/flarum-ext-indonesian
 
 Aktifkan Ekstensi **Indonesian**
 
-![Indonesian](https://www.fransallen.com/static/images/flarum-ext-indonesian.png)
+![Indonesian](https://storage.googleapis.com/fransallencom.appspot.com/images/flarum-ext-indonesian.png)
 
 ### Berkontribusi
 
