@@ -24,7 +24,7 @@ Activate the **Indonesia**
 
 ### Contributing
 
-Read how to contribute to Flarum Indonesia on contributing file: [CONTRIBUTING](https://github.com/fransallen/flarum-ext-indonesia/blob/master/CONTRIBUTING.md)
+Read how to contribute in Flarum Indonesia on [CONTRIBUTING](https://github.com/fransallen/flarum-ext-indonesia/blob/master/CONTRIBUTING.md) file.
 
 ### Copyright
 

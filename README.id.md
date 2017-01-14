@@ -22,7 +22,7 @@ Aktifkan Ekstensi **Indonesia**
 
 ### Berkontribusi
 
-Baca cara berkontribusi dalam menerjemahkan Flarum ke Bahasa Indonesia ini pada berkas kontribusi: [CONTRIBUTING](https://github.com/fransallen/flarum-ext-indonesia/blob/master/CONTRIBUTING.md)
+Baca cara berkontribusi dalam menerjemahkan Flarum ke Bahasa Indonesia pada berkas [KONTRIBUSI](https://github.com/fransallen/flarum-ext-indonesia/blob/master/CONTRIBUTING.id.md).
 
 ### Hak Cipta
 
