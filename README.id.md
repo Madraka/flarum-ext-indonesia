@@ -9,20 +9,20 @@ Paket Bahasa Indonesia untuk Flarum, semua sudah diterjemahkan kedalam Bahasa In
 ### Instalasi
 
 ```
-composer require fransallen/flarum-ext-indonesian
+composer require fransallen/flarum-ext-indonesia
 ```
 
 ### Penggunaan
 
 > Flarum > Admin > Extensions
 
-Aktifkan Ekstensi **Indonesian**
+Aktifkan Ekstensi **Indonesia**
 
-![Indonesian](https://storage.googleapis.com/fransallencom.appspot.com/images/flarum-ext-indonesian.png)
+![Indonesia](https://storage.googleapis.com/fransallencom.appspot.com/images/flarum-ext-indonesia.png)
 
 ### Berkontribusi
 
-Baca cara berkontribusi dalam menerjemahkan Flarum ke Bahasa Indonesia ini pada berkas kontribusi: [CONTRIBUTING](https://github.com/fransallen/flarum-ext-indonesian/blob/master/CONTRIBUTING.md)
+Baca cara berkontribusi dalam menerjemahkan Flarum ke Bahasa Indonesia ini pada berkas kontribusi: [CONTRIBUTING](https://github.com/fransallen/flarum-ext-indonesia/blob/master/CONTRIBUTING.md)
 
 ### Hak Cipta
 
@@ -32,4 +32,4 @@ Beberapa terjemahan saya ambil dari `github.com/realodix/flarum-ext-indonesian`,
 
 ### Lisensi
 
-Dirilis dibawah Lisensi MIT. Tolong lihat file lisensi: [LICENSE](https://github.com/fransallen/flarum-ext-indonesian/blob/master/LICENSE)
+Dirilis dibawah Lisensi MIT. Tolong lihat file lisensi: [LICENSE](https://github.com/fransallen/flarum-ext-indonesia/blob/master/LICENSE)

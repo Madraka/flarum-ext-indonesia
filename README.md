@@ -1,30 +1,30 @@
-# Indonesian Language Pack for Flarum. Complete!
+# Indonesia Language Pack for Flarum. Complete!
 
-The Complete Indonesian Localization for Flarum, making Flarum into Indonesian.
+The Complete Indonesia Localization for Flarum, making Flarum into Indonesia.
 
 ## Description
 
-Indonesian language pack for Flarum, all already translated into Indonesian. Not all 100% correctly translated. I will always be correcting if an error occurs.
+Indonesia language pack for Flarum, already 100% translated into Indonesia.
 
 ### Installation
 
 On your Flarum root, run:
 
 ```
-composer require fransallen/flarum-ext-indonesian
+composer require fransallen/flarum-ext-indonesia
 ```
 
 ### Usage
 
 > Flarum > Admin > Extensions
 
-Activate the **Indonesian**
+Activate the **Indonesia**
 
-![Indonesian](https://storage.googleapis.com/fransallencom.appspot.com/images/flarum-ext-indonesian.png)
+![Indonesia](https://storage.googleapis.com/fransallencom.appspot.com/images/flarum-ext-indonesia.png)
 
 ### Contributing
 
-Read how to contribute to Flarum Indonesian on contributing file: [CONTRIBUTING](https://github.com/fransallen/flarum-ext-indonesian/blob/master/CONTRIBUTING.md)
+Read how to contribute to Flarum Indonesia on contributing file: [CONTRIBUTING](https://github.com/fransallen/flarum-ext-indonesia/blob/master/CONTRIBUTING.md)
 
 ### Copyright
 
@@ -34,4 +34,4 @@ Some of the translations I took from `github.com/realodix/flarum-ext-indonesian`
 
 ### License
 
-Is released under the MIT License. Please see the license file: [LICENSE](https://github.com/fransallen/flarum-ext-indonesian/blob/master/LICENSE)
+Is released under the MIT License. Please see the license file: [LICENSE](https://github.com/fransallen/flarum-ext-indonesia/blob/master/LICENSE)
